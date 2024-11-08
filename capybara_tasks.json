@@ -17,7 +17,7 @@
                 "label": "Promote Capy on Twitter",
                 "score": "500",
                 "url": "https://x.com/intent/post?text=🚀 Farm $CATI, $HMSTR, $DUCKS, $CAPY, Tomarket, $Blum, $Major, $NOT, $DOGS?\n💰 @meme_capybara is future! Join https://t.me/the_capybara_meme_bot/start?startapp=0a14f1a6beac4cbfdb0145adfbfdd0a9",
-                "is_completed": false
+                "is_completed": true
             },
             {
                 "name": "gas",
@@ -25,7 +25,7 @@
                 "label": "Embark on Your On-Chain Journey",
                 "score": "3000",
                 "url": null,
-                "is_completed": false
+                "is_completed": true
             }
         ]
     },
@@ -138,23 +138,13 @@
                 "is_completed": true
             },
             {
-                "name": "4EVERLAND_5",
-                "partner": "4EVERLAND",
-                "category": "tg_bot",
-                "url": "https://t.me/tg_4everland_bot/start?startapp=t-gyhmax",
-                "score": "1000",
-                "label": "Play 4EVERLAND Bot and win airdrops",
-                "end_at": "1759307667000",
-                "is_completed": false
-            },
-            {
-                "name": "4EVERLAND_7",
+                "name": "4EVERLAND_6",
                 "partner": "4EVERLAND",
                 "category": "channel",
-                "url": "https://t.me/+IvCVWHyv7WRmYTJl",
+                "url": "https://t.me/+3u12JxpxGnQzZTk1",
                 "score": "1000",
-                "label": "Join 4EVERLAND Group\t",
-                "end_at": "1759303652000",
+                "label": "Join 4EVERLAND Channel",
+                "end_at": "1761899678000",
                 "is_completed": true
             },
             {
@@ -168,14 +158,44 @@
                 "is_completed": true
             },
             {
-                "name": "4EVERLAND_6",
+                "name": "4EVERLAND_5",
+                "partner": "4EVERLAND",
+                "category": "tg_bot",
+                "url": "https://t.me/tg_4everland_bot/start?startapp=x-qbb449yj",
+                "score": "1000",
+                "label": "Play 4EVERLAND Bot and win airdrops",
+                "end_at": "1759307667000",
+                "is_completed": true
+            },
+            {
+                "name": "4EVERLAND_7",
                 "partner": "4EVERLAND",
                 "category": "channel",
-                "url": "https://t.me/+3u12JxpxGnQzZTk1",
+                "url": "https://t.me/+IvCVWHyv7WRmYTJl",
                 "score": "1000",
-                "label": "Join 4EVERLAND Channel",
-                "end_at": "1761899678000",
+                "label": "Join 4EVERLAND Group\t",
+                "end_at": "1759303652000",
                 "is_completed": true
+            },
+            {
+                "name": "Angry_Miner_1",
+                "partner": "Angry Miner",
+                "category": "tg_bot",
+                "url": "https://t.me/AngryMinerBot/?start=7316243831",
+                "score": "1000",
+                "label": "Earn USDT in Angry Miner!",
+                "end_at": "1731628800000",
+                "is_completed": true
+            },
+            {
+                "name": "CoinMapAI_1",
+                "partner": "CoinMapAI",
+                "category": "tg_bot",
+                "url": "https://t.me/CoinMapAi_bot/CoinMapAi?startapp=eyJpbnZpdGVyX2lkIjoxMjE2MDB9",
+                "score": "1000",
+                "label": "Open CoinMapAI",
+                "end_at": "1731643200000",
+                "is_completed": false
             },
             {
                 "name": "DLCoin_1",
@@ -198,23 +218,23 @@
                 "is_completed": true
             },
             {
-                "name": "FreeDogs_1",
-                "partner": "FreeDogs",
-                "category": "tg_bot",
-                "url": "https://t.me/theFreeDogs_bot/app?startapp=ref_zAaF0CP9",
-                "score": "1000",
-                "label": "Play FreeDogs",
-                "end_at": "1731063206000",
-                "is_completed": true
-            },
-            {
                 "name": "FreeDogs_2",
                 "partner": "FreeDogs",
                 "category": "channel",
                 "url": "https://t.me/+ccD4aRXeNHc3MTA1",
                 "score": "1000",
                 "label": "Join FreeDogs Channel",
-                "end_at": "1731063206000",
+                "end_at": "1731322406000",
+                "is_completed": true
+            },
+            {
+                "name": "FreeDogs_1",
+                "partner": "FreeDogs",
+                "category": "tg_bot",
+                "url": "https://t.me/theFreeDogs_bot/app?startapp=ref_zAaF0CP9",
+                "score": "1000",
+                "label": "Play FreeDogs",
+                "end_at": "1731322406000",
                 "is_completed": true
             },
             {
@@ -225,46 +245,26 @@
                 "score": "1000",
                 "label": "Play GOATS",
                 "end_at": "1731513600000",
+                "is_completed": true
+            },
+            {
+                "name": "LuckyMoney_1",
+                "partner": "LuckyMoney",
+                "category": "tg_bot",
+                "url": "https://t.me/LuckyMoney_release_Bot/LuckyMoneyApp?startapp=0IXI0IXI1IXI3E9IXI99IXI0IXIC06",
+                "score": "1000",
+                "label": "Play LuckyMoney Bot",
+                "end_at": "1731119424000",
                 "is_completed": false
             },
             {
-                "name": "HUMAN_1",
-                "partner": "HUMAN",
+                "name": "MEAOW_1",
+                "partner": "MEAOW",
                 "category": "tg_bot",
-                "url": "https://t.me/imhmnbot/invite?startapp=7316243831",
+                "url": " https://t.me/meaow_appbot?start=t34zaz",
                 "score": "1000",
-                "label": "Join Team HUMAN",
-                "end_at": "1731060300000",
-                "is_completed": true
-            },
-            {
-                "name": "Hipo_Gang_1",
-                "partner": "Hipo Gang",
-                "category": "tg_bot",
-                "url": "https://t.me/HipoGangBot/join?startapp=7316243831",
-                "score": "1000",
-                "label": "Play Hipo Gang",
-                "end_at": "1731058800000",
-                "is_completed": true
-            },
-            {
-                "name": "Hipo_Gang_2",
-                "partner": "Hipo Gang",
-                "category": "channel",
-                "url": "https://t.me/+CMtWW-ny-GFlZjBk",
-                "score": "1000",
-                "label": "Join Hipo channel",
-                "end_at": "1731058989000",
-                "is_completed": true
-            },
-            {
-                "name": "Intract_1",
-                "partner": "Intract",
-                "category": "tg_bot",
-                "url": "https://t.me/tonton_intract_bot?startapp=opYDQn",
-                "score": "1000",
-                "label": "Play TonTon and earn $$ ",
-                "end_at": "1731167999000",
+                "label": "Swipe Meme, Earn $MEAOW!",
+                "end_at": "1731160199000",
                 "is_completed": false
             },
             {
@@ -275,36 +275,6 @@
                 "score": "1000",
                 "label": "Play Monkey bot",
                 "end_at": "1731296557000",
-                "is_completed": false
-            },
-            {
-                "name": "Owls_2",
-                "partner": "Owls",
-                "category": "tg_bot",
-                "url": "https://t.me/owlsonton_bot/join?startapp=7162347395",
-                "score": "1000",
-                "label": "Play Owls",
-                "end_at": "1731059160000",
-                "is_completed": true
-            },
-            {
-                "name": "PLAYDOG_1",
-                "partner": "PLAYDOG",
-                "category": "tg_bot",
-                "url": "https://t.me/PlaydogToken_bot?start=qjaU164",
-                "score": "1000",
-                "label": "Play PLAYDOG Bot",
-                "end_at": "1731556800000",
-                "is_completed": false
-            },
-            {
-                "name": "Pokemon_Ball_3",
-                "partner": "Pokemon Ball",
-                "category": "tg_bot",
-                "url": "https://t.me/PokemonBall_bot?start=7316243831",
-                "score": "1000",
-                "label": "Play Pokemon Ball Game",
-                "end_at": "1731307848000",
                 "is_completed": true
             },
             {
@@ -315,6 +285,16 @@
                 "score": "1000",
                 "label": "Join Pokemon Ball Community",
                 "end_at": "1731307844000",
+                "is_completed": true
+            },
+            {
+                "name": "Pokemon_Ball_3",
+                "partner": "Pokemon Ball",
+                "category": "tg_bot",
+                "url": "https://t.me/PokemonBall_bot?start=7316243831",
+                "score": "1000",
+                "label": "Play Pokemon Ball Game",
+                "end_at": "1731307848000",
                 "is_completed": true
             },
             {
@@ -334,7 +314,7 @@
                 "url": "https://t.me/+ib9_8pZH8kViMTg9",
                 "score": "1000",
                 "label": "Join TON Kombat channel",
-                "end_at": "1731049200000",
+                "end_at": "1731308400000",
                 "is_completed": true
             },
             {
@@ -345,6 +325,16 @@
                 "score": "1000",
                 "label": "Join TapCoins",
                 "end_at": "1731557181000",
+                "is_completed": true
+            },
+            {
+                "name": "Tasbeeh_1",
+                "partner": "Tasbeeh",
+                "category": "tg_bot",
+                "url": "https://t.me/TassbeehBot/miniapp?startapp=7316243831",
+                "score": "1000",
+                "label": "Play Tasbeeh",
+                "end_at": "1731283200000",
                 "is_completed": false
             },
             {
@@ -354,58 +344,28 @@
                 "url": "https://t.me/TonGoldMiner_bot/game?startapp=ref_ar7RFb",
                 "score": "1000",
                 "label": "Join TonGoldMiner",
-                "end_at": "1731042130000",
+                "end_at": "1731135610000",
+                "is_completed": true
+            },
+            {
+                "name": "ZETA_1",
+                "partner": "ZETA",
+                "category": "tg_bot",
+                "url": "https://t.me/Zeat_Play_bot/?start=ref_JO2FIH1G",
+                "score": "1000",
+                "label": "Join ZEAT Play bot",
+                "end_at": "1731315067000",
                 "is_completed": false
             },
             {
-                "name": "UXUY_Wallet_1",
-                "partner": "UXUY Wallet",
-                "category": "tg_bot",
-                "url": "https://t.me/UXUYbot/app?startapp=bpiaKryOacprwipT",
-                "score": "1000",
-                "label": "Activate UXUYbot and Earn Bitcoin",
-                "end_at": "1731056400000",
-                "is_completed": true
-            },
-            {
-                "name": "WORK_DOGS_2",
-                "partner": "WORK DOGS",
+                "name": "ZETA_2",
+                "partner": "ZETA",
                 "category": "channel",
-                "url": "https://t.me/+vN-SP3V0DxkwZDU0",
+                "url": "https://t.me/+obAKRdjyHXM3NjIy",
                 "score": "1000",
-                "label": "Join WORK DOGS Channel",
-                "end_at": "1731068340000",
-                "is_completed": true
-            },
-            {
-                "name": "WORK_DOGS_1",
-                "partner": "WORK DOGS",
-                "category": "tg_bot",
-                "url": "https://t.me/DOGS03_bot/app?startapp=detail_7316243831",
-                "score": "1000",
-                "label": "Play WORK DOGS",
-                "end_at": "1731067342000",
-                "is_completed": true
-            },
-            {
-                "name": "ZenCoin_1",
-                "partner": "ZenCoin",
-                "category": "tg_bot",
-                "url": "https://t.me/theZencoin_bot/zencoin?startapp=r=7316243831",
-                "score": "1000",
-                "label": "Play ZenCoin",
-                "end_at": "1731074400000",
-                "is_completed": true
-            },
-            {
-                "name": "ZenCoin_2",
-                "partner": "ZenCoin",
-                "category": "channel",
-                "url": "https://t.me/+7vIDqRRgNQE5YWJl",
-                "score": "1000",
-                "label": "Join ZenCoin Channel",
-                "end_at": "1731074400000",
-                "is_completed": true
+                "label": "Subscribe to ZEAT Official Channel",
+                "end_at": "1731315067000",
+                "is_completed": false
             }
         ]
     }
