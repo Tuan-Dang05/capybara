@@ -9,15 +9,15 @@
                 "label": "Check in",
                 "score": "500",
                 "url": null,
-                "is_completed": true
+                "is_completed": false
             },
             {
                 "name": "quote_tweet",
                 "category": "twitter",
                 "label": "Promote Capy on Twitter",
                 "score": "500",
-                "url": "https://x.com/intent/post?text=🚀 Farm $CATI, $HMSTR, $DUCKS, $CAPY, Tomarket, $Blum, $Major, $NOT, $DOGS?\n💰 @meme_capybara is future! Join https://t.me/the_capybara_meme_bot/start?startapp=0a14f1a6beac4cbfdb0145adfbfdd0a9",
-                "is_completed": true
+                "url": "https://x.com/intent/post?text=🚀 Farm $CATI, $HMSTR, $DUCKS, $CAPY, Tomarket, $Blum, $Major, $NOT, $DOGS?\n💰 @meme_capybara is future! Join https://t.me/the_capybara_meme_bot/start?startapp=ff821fe39122d248345e51d57c7a6c1a",
+                "is_completed": false
             },
             {
                 "name": "gas",
@@ -25,7 +25,7 @@
                 "label": "Embark on Your On-Chain Journey",
                 "score": "3000",
                 "url": null,
-                "is_completed": true
+                "is_completed": false
             }
         ]
     },
@@ -44,7 +44,7 @@
             {
                 "name": "quote_tweet",
                 "category": "twitter",
-                "url": "https://x.com/intent/post?text=%F0%9F%9A%80%C2%A0So%20excited%20to%20join%20the%20@meme_capybara%20fam!%0A%F0%9F%92%B0%C2%A0Go%20earn%20$capybara%20now!%0Ahttps://t.me/the_capybara_meme_bot/start?startapp=0a14f1a6beac4cbfdb0145adfbfdd0a9",
+                "url": "https://x.com/intent/post?text=%F0%9F%9A%80%C2%A0So%20excited%20to%20join%20the%20@meme_capybara%20fam!%0A%F0%9F%92%B0%C2%A0Go%20earn%20$capybara%20now!%0Ahttps://t.me/the_capybara_meme_bot/start?startapp=ff821fe39122d248345e51d57c7a6c1a",
                 "score": "1000",
                 "label": "Quote the tweet",
                 "is_completed": true
@@ -52,7 +52,7 @@
             {
                 "name": "quote_tweet_boost",
                 "category": "twitter",
-                "url": "https://x.com/intent/post?text=Guys,%20free%20money!%20I've%20already%20earned%20over%205000%20$capy.%20Stake%20Capybara%20Points%20to%20earn%20$Capy.%0Ahttps://t.me/the_capybara_meme_bot/start?startapp=0a14f1a6beac4cbfdb0145adfbfdd0a9",
+                "url": "https://x.com/intent/post?text=Guys,%20free%20money!%20I've%20already%20earned%20over%205000%20$capy.%20Stake%20Capybara%20Points%20to%20earn%20$Capy.%0Ahttps://t.me/the_capybara_meme_bot/start?startapp=ff821fe39122d248345e51d57c7a6c1a",
                 "score": "1000",
                 "label": "Quote the tweet about $Capy Boost",
                 "is_completed": true
@@ -71,7 +71,7 @@
                 "url": "https://t.me/+UjbNCKoopdc3ZDQ1",
                 "score": "3000",
                 "label": "Join News Channel",
-                "is_completed": true
+                "is_completed": false
             },
             {
                 "name": "follow_youtube",
@@ -88,53 +88,13 @@
         "type": "partner",
         "list": [
             {
-                "name": "OKXWallet_1",
-                "partner": "OKXWallet",
-                "category": "okx",
-                "url": "https://www.okx.com/web3/discover/ecosystem-hub ",
-                "score": "2000",
-                "label": "Visit eco hub page",
-                "end_at": "1731340800000",
-                "is_completed": true
-            },
-            {
-                "name": "OKXWallet_2",
-                "partner": "OKXWallet",
-                "category": "okx",
-                "url": "https://t.me/okxweb3giveawaydrops",
-                "score": "2000",
-                "label": "Join OKX Wallet Channel",
-                "end_at": "1731340800000",
-                "is_completed": true
-            },
-            {
-                "name": "OKXWallet_3",
-                "partner": "OKXWallet",
-                "category": "okx",
-                "url": "https://www.okx.com/ul/42nG0D",
-                "score": "2000",
-                "label": "Visit OKX Wallet Giveaway Page",
-                "end_at": "1731340800000",
-                "is_completed": true
-            },
-            {
-                "name": "OKXWallet_4",
-                "partner": "OKXWallet",
-                "category": "okx",
-                "url": "/u/wallet",
-                "score": "2000",
-                "label": "Connect OKX Wallet",
-                "end_at": "1731340800000",
-                "is_completed": true
-            },
-            {
                 "name": "301_Community_4",
                 "partner": "301 Community",
                 "category": "tg_bot",
                 "url": "https://t.me/Agent301Bot/app?startapp=onetime7162347395",
                 "score": "1000",
                 "label": "Become 301 Agent and EARN",
-                "end_at": "1732955356000",
+                "end_at": "1738317600000",
                 "is_completed": true
             },
             {
@@ -145,7 +105,7 @@
                 "score": "1000",
                 "label": "Join 4EVERLAND Channel",
                 "end_at": "1761899678000",
-                "is_completed": true
+                "is_completed": false
             },
             {
                 "name": "4EVERLAND_2",
@@ -161,21 +121,21 @@
                 "name": "4EVERLAND_5",
                 "partner": "4EVERLAND",
                 "category": "tg_bot",
-                "url": "https://t.me/tg_4everland_bot/start?startapp=x-qbb449yj",
+                "url": "https://t.me/tg_4everland_bot/start?startapp=t-Deon_4EVER",
                 "score": "1000",
                 "label": "Play 4EVERLAND Bot and win airdrops",
-                "end_at": "1759307667000",
-                "is_completed": true
+                "end_at": "1761982891000",
+                "is_completed": false
             },
             {
                 "name": "4EVERLAND_7",
                 "partner": "4EVERLAND",
                 "category": "channel",
-                "url": "https://t.me/+IvCVWHyv7WRmYTJl",
+                "url": "https://t.me/+OG4aHfwv811jNjQ1",
                 "score": "1000",
                 "label": "Join 4EVERLAND Group\t",
                 "end_at": "1759303652000",
-                "is_completed": true
+                "is_completed": false
             },
             {
                 "name": "Angry_Miner_1",
@@ -184,187 +144,17 @@
                 "url": "https://t.me/AngryMinerBot/?start=7316243831",
                 "score": "1000",
                 "label": "Earn USDT in Angry Miner!",
-                "end_at": "1731628800000",
+                "end_at": "1736121600000",
                 "is_completed": true
             },
             {
-                "name": "CoinMapAI_1",
-                "partner": "CoinMapAI",
-                "category": "tg_bot",
-                "url": "https://t.me/CoinMapAi_bot/CoinMapAi?startapp=eyJpbnZpdGVyX2lkIjoxMjE2MDB9",
-                "score": "1000",
-                "label": "Open CoinMapAI",
-                "end_at": "1731643200000",
-                "is_completed": false
-            },
-            {
-                "name": "DLCoin_1",
-                "partner": "DLCoin",
-                "category": "tg_bot",
-                "url": "https://t.me/DLCcoin_Bot/app?startapp=i_7316243831",
-                "score": "1000",
-                "label": "Play DLCoin Bot",
-                "end_at": "1731254459000",
-                "is_completed": true
-            },
-            {
-                "name": "DLCoin_2",
-                "partner": "DLCoin",
+                "name": "PinEye_2",
+                "partner": "PinEye",
                 "category": "channel",
-                "url": "https://t.me/+6zdDiCi3B75mYzJh",
+                "url": "https://t.me/+86JI45IBzQo0ZTRk",
                 "score": "1000",
-                "label": "Join DLCoin Channel",
-                "end_at": "1731254427000",
-                "is_completed": true
-            },
-            {
-                "name": "FreeDogs_2",
-                "partner": "FreeDogs",
-                "category": "channel",
-                "url": "https://t.me/+ccD4aRXeNHc3MTA1",
-                "score": "1000",
-                "label": "Join FreeDogs Channel",
-                "end_at": "1731322406000",
-                "is_completed": true
-            },
-            {
-                "name": "FreeDogs_1",
-                "partner": "FreeDogs",
-                "category": "tg_bot",
-                "url": "https://t.me/theFreeDogs_bot/app?startapp=ref_zAaF0CP9",
-                "score": "1000",
-                "label": "Play FreeDogs",
-                "end_at": "1731322406000",
-                "is_completed": true
-            },
-            {
-                "name": "GOATS_4",
-                "partner": "GOATS",
-                "category": "tg_bot",
-                "url": "https://t.me/realgoats_bot/run?startapp=23e4f4b4-ef13-466a-b231-0517044b545b",
-                "score": "1000",
-                "label": "Play GOATS",
-                "end_at": "1731513600000",
-                "is_completed": true
-            },
-            {
-                "name": "LuckyMoney_1",
-                "partner": "LuckyMoney",
-                "category": "tg_bot",
-                "url": "https://t.me/LuckyMoney_release_Bot/LuckyMoneyApp?startapp=0IXI0IXI1IXI3E9IXI99IXI0IXIC06",
-                "score": "1000",
-                "label": "Play LuckyMoney Bot",
-                "end_at": "1731119424000",
-                "is_completed": false
-            },
-            {
-                "name": "MEAOW_1",
-                "partner": "MEAOW",
-                "category": "tg_bot",
-                "url": " https://t.me/meaow_appbot?start=t34zaz",
-                "score": "1000",
-                "label": "Swipe Meme, Earn $MEAOW!",
-                "end_at": "1731160199000",
-                "is_completed": false
-            },
-            {
-                "name": "Monkey_1",
-                "partner": "Monkey",
-                "category": "tg_bot",
-                "url": "https://t.me/monkeycost_bot/app?startapp=r_7316243831",
-                "score": "1000",
-                "label": "Play Monkey bot",
-                "end_at": "1731296557000",
-                "is_completed": true
-            },
-            {
-                "name": "Pokemon_Ball_2",
-                "partner": "Pokemon Ball",
-                "category": "channel",
-                "url": "https://t.me/+fscITEL3A2oyYmYy",
-                "score": "1000",
-                "label": "Join Pokemon Ball Community",
-                "end_at": "1731307844000",
-                "is_completed": true
-            },
-            {
-                "name": "Pokemon_Ball_3",
-                "partner": "Pokemon Ball",
-                "category": "tg_bot",
-                "url": "https://t.me/PokemonBall_bot?start=7316243831",
-                "score": "1000",
-                "label": "Play Pokemon Ball Game",
-                "end_at": "1731307848000",
-                "is_completed": true
-            },
-            {
-                "name": "Real_Spin_1",
-                "partner": "Real Spin",
-                "category": "tg_bot",
-                "url": "https://t.me/RealSpin_bot/realspin?startapp=r_7316243831",
-                "score": "1000",
-                "label": "Play Real Spin",
-                "end_at": "1731317845000",
-                "is_completed": true
-            },
-            {
-                "name": "TON_Kombat_2",
-                "partner": "TON Kombat",
-                "category": "channel",
-                "url": "https://t.me/+ib9_8pZH8kViMTg9",
-                "score": "1000",
-                "label": "Join TON Kombat channel",
-                "end_at": "1731308400000",
-                "is_completed": true
-            },
-            {
-                "name": "TapCoins_2",
-                "partner": "TapCoins",
-                "category": "tg_bot",
-                "url": "https://t.me/tapcoinsbot?start=ref_4KzQRf",
-                "score": "1000",
-                "label": "Join TapCoins",
-                "end_at": "1731557181000",
-                "is_completed": true
-            },
-            {
-                "name": "Tasbeeh_1",
-                "partner": "Tasbeeh",
-                "category": "tg_bot",
-                "url": "https://t.me/TassbeehBot/miniapp?startapp=7316243831",
-                "score": "1000",
-                "label": "Play Tasbeeh",
-                "end_at": "1731283200000",
-                "is_completed": false
-            },
-            {
-                "name": "TonGoldMiner_2",
-                "partner": "TonGoldMiner",
-                "category": "tg_bot",
-                "url": "https://t.me/TonGoldMiner_bot/game?startapp=ref_ar7RFb",
-                "score": "1000",
-                "label": "Join TonGoldMiner",
-                "end_at": "1731135610000",
-                "is_completed": true
-            },
-            {
-                "name": "ZETA_1",
-                "partner": "ZETA",
-                "category": "tg_bot",
-                "url": "https://t.me/Zeat_Play_bot/?start=ref_JO2FIH1G",
-                "score": "1000",
-                "label": "Join ZEAT Play bot",
-                "end_at": "1731315067000",
-                "is_completed": false
-            },
-            {
-                "name": "ZETA_2",
-                "partner": "ZETA",
-                "category": "channel",
-                "url": "https://t.me/+obAKRdjyHXM3NjIy",
-                "score": "1000",
-                "label": "Subscribe to ZEAT Official Channel",
-                "end_at": "1731315067000",
+                "label": "Join PinEye Channel",
+                "end_at": "1736069372000",
                 "is_completed": false
             }
         ]
