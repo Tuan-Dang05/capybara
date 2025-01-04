@@ -8,9 +8,9 @@
                 "category": "InviteFrens",
                 "progress": 1,
                 "achieved": true,
-                "achieved_at": "1729502334869",
+                "achieved_at": "1729654464024",
                 "isClaimed": true,
-                "claimed_at": "1729616659180",
+                "claimed_at": "1729654566487",
                 "description": "Invite 1 fren",
                 "score": "500",
                 "threshold": 1
@@ -18,11 +18,11 @@
             {
                 "name": "InviteFrens3",
                 "category": "InviteFrens",
-                "progress": 3,
-                "achieved": true,
-                "achieved_at": "1729616753539",
-                "isClaimed": true,
-                "claimed_at": "1729618024625",
+                "progress": 1,
+                "achieved": false,
+                "achieved_at": "0",
+                "isClaimed": false,
+                "claimed_at": "0",
                 "description": "Invite 3 frens",
                 "score": "1000",
                 "threshold": 3
@@ -30,11 +30,11 @@
             {
                 "name": "InviteFrens10",
                 "category": "InviteFrens",
-                "progress": 9,
+                "progress": 0,
                 "achieved": false,
-                "achieved_at": "0",
+                "achieved_at": 0,
                 "isClaimed": false,
-                "claimed_at": "0",
+                "claimed_at": 0,
                 "description": "Invite 10 frens",
                 "score": "4500",
                 "threshold": 10
@@ -112,7 +112,7 @@
                 "threshold": 1000
             }
         ],
-        "progress": 9
+        "progress": 1
     },
     {
         "title": "Invite Premium Frens",
@@ -121,11 +121,11 @@
             {
                 "name": "InvitePremiumFrens1",
                 "category": "InvitePremiumFrens",
-                "progress": 1,
-                "achieved": true,
-                "achieved_at": "1730999429270",
-                "isClaimed": true,
-                "claimed_at": "1731030544522",
+                "progress": 0,
+                "achieved": false,
+                "achieved_at": "0",
+                "isClaimed": false,
+                "claimed_at": "0",
                 "description": "Invite 1 premium fren",
                 "score": "1500",
                 "threshold": 1
@@ -133,11 +133,11 @@
             {
                 "name": "InvitePremiumFrens3",
                 "category": "InvitePremiumFrens",
-                "progress": 1,
+                "progress": 0,
                 "achieved": false,
-                "achieved_at": "0",
+                "achieved_at": 0,
                 "isClaimed": false,
-                "claimed_at": "0",
+                "claimed_at": 0,
                 "description": "Invite 3 premium frens",
                 "score": "3000",
                 "threshold": 3
@@ -227,6 +227,6 @@
                 "threshold": 1000
             }
         ],
-        "progress": 1
+        "progress": 0
     }
 ]
