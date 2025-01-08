@@ -108,16 +108,6 @@
                 "is_completed": false
             },
             {
-                "name": "4EVERLAND_2",
-                "partner": "4EVERLAND",
-                "category": "twitter",
-                "url": "https://x.com/4everland_org",
-                "score": "1000",
-                "label": "Follow 4EVERLAND Twitter",
-                "end_at": "1761900716000",
-                "is_completed": true
-            },
-            {
                 "name": "4EVERLAND_5",
                 "partner": "4EVERLAND",
                 "category": "tg_bot",
@@ -126,6 +116,16 @@
                 "label": "Play 4EVERLAND Bot and win airdrops",
                 "end_at": "1761982891000",
                 "is_completed": false
+            },
+            {
+                "name": "4EVERLAND_2",
+                "partner": "4EVERLAND",
+                "category": "twitter",
+                "url": "https://x.com/4everland_org",
+                "score": "1000",
+                "label": "Follow 4EVERLAND Twitter",
+                "end_at": "1761900716000",
+                "is_completed": true
             },
             {
                 "name": "4EVERLAND_7",
@@ -138,23 +138,53 @@
                 "is_completed": false
             },
             {
-                "name": "Angry_Miner_1",
-                "partner": "Angry Miner",
+                "name": "DejenDog_1",
+                "partner": "DejenDog",
                 "category": "tg_bot",
-                "url": "https://t.me/AngryMinerBot/?start=7316243831",
+                "url": "https://t.me/DejenDogBot/djdog?startapp=fc72542a",
                 "score": "1000",
-                "label": "Earn USDT in Angry Miner!",
-                "end_at": "1736121600000",
+                "label": "Play DejenDog",
+                "end_at": "1736643600000",
+                "is_completed": false
+            },
+            {
+                "name": "Dormint_1",
+                "partner": "Dormint",
+                "category": "tg_bot",
+                "url": "https://t.me/dormint_bot/dormint_bot?startapp=ref_R3X2Z6UGB53QKFNUAEC6",
+                "score": "1000",
+                "label": "Play Dormint & Earn Sleepcoins",
+                "end_at": "1736578800000",
                 "is_completed": true
             },
             {
-                "name": "PinEye_2",
-                "partner": "PinEye",
-                "category": "channel",
-                "url": "https://t.me/+86JI45IBzQo0ZTRk",
+                "name": "Dropee_1",
+                "partner": "Dropee",
+                "category": "tg_bot",
+                "url": "https://t.me/DropeeBot/play?startapp=ref_CKXvIN_zkV4",
                 "score": "1000",
-                "label": "Join PinEye Channel",
-                "end_at": "1736069372000",
+                "label": "Play Dropee",
+                "end_at": "1736492034000",
+                "is_completed": false
+            },
+            {
+                "name": "Kiloex_1",
+                "partner": "Kiloex",
+                "category": "tg_bot",
+                "url": "https://t.me/KiloExTradeBot/mini?startapp=from-capybara_rcode-t78h79fs",
+                "score": "1000",
+                "label": "Kiloex Play Kiloex Earning Game",
+                "end_at": "1736407691000",
+                "is_completed": false
+            },
+            {
+                "name": "SimpleCoin_1",
+                "partner": "SimpleCoin",
+                "category": "tg_bot",
+                "url": "https://t.me/Simple_Tap_Bot/app?startapp=1733196496175",
+                "score": "1000",
+                "label": "Play Simple and get TON",
+                "end_at": "1738317600000",
                 "is_completed": false
             }
         ]
