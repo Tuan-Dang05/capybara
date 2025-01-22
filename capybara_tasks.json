@@ -186,6 +186,16 @@
                 "label": "Play Simple and get TON",
                 "end_at": "1738317600000",
                 "is_completed": false
+            },
+             {
+                "name": "CryptoRank_1",
+                "partner": "CryptoRank",
+                "category": "tg_bot",
+                "url": "https://t.me/cryptorank_app_bot/points?startapp=ref_7316243831_",
+                "score": "1000",
+                "label": "Play to Earn with CryptoRank 💎",
+                "end_at": "1737536064000",
+                "is_completed": false
             }
         ]
     }
